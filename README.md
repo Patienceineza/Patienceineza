@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a passionate software developer based in Kigali, Rwand
 - 🌱 I’m currently exploring advanced techniques in **Golang** and **Apollo**.
 - 👯 I’m looking to collaborate on **open-source projects** and **innovative web applications**.
 - 💪 I’m committed to changing the view of women in coding, especially in Africa, and inspiring the next generation of female developers.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:your.email@example.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/patience-ineza-44b470231/) | [Email](mailto:inezapatience2@gmail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy reading books in my spare time!
 
